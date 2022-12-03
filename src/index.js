@@ -5,7 +5,6 @@ import App from './App';
 import { firebase } from '@firebase/app'
 import 'firebase/firestore'
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyC5EJHfMDmqhIdjKjAXjL39XRs8npQSa60",
   authDomain: "notesapp-ec076.firebaseapp.com",
